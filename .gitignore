@@ -1,0 +1,24 @@
+# --- Godot ---
+.godot/
+*.tmp
+*.translation
+
+# --- Generado al exportar o probar ---
+export/
+juego/build/
+*.log
+
+# --- Copias de seguridad locales del arte ---
+juego/_arte/
+
+# --- Iconos intermedios (se regeneran con tools/make_icons.gd) ---
+app/icono/
+
+# --- Sistema y editores ---
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+.claude/
+__pycache__/

@@ -1,0 +1,13 @@
+# Texto con saltos de línea LF; los scripts de Windows necesitan CRLF.
+* text=auto eol=lf
+*.cmd text eol=crlf
+*.bat text eol=crlf
+*.vbs text eol=crlf
+
+# Binarios
+*.png binary
+*.jpg binary
+*.ico binary
+*.ttf binary
+*.wav binary
+*.ogg binary

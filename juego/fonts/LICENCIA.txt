@@ -1,0 +1,4 @@
+Cascadia Mono — Copyright (c) 2019 Microsoft Corporation.
+Distribuida bajo la SIL Open Font License, versión 1.1.
+Texto completo de la licencia: https://openfontlicense.org/open-font-license-official-text/
+Proyecto: https://github.com/microsoft/cascadia-code
