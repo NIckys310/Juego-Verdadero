@@ -13,6 +13,10 @@
   <img src="docs/capturas/game.png" width="720" alt="Partida en el Huerto Comunitario">
 </p>
 
+## 🎬 Video de presentación
+
+**[▶ Ver el video de Verdaria (4:49)](video/Verdaria_presentacion.mp4)**: qué problema resuelve, qué hace, una demo, la arquitectura, la calidad y los aprendizajes. Narrado por Nicoll Valentina.
+
 ## El juego
 
 Empiezas en un refugio en ruinas. Lo que decidas hacer con tu casa fija una de tres rutas, y cada una tiene nueve lugares propios:
@@ -80,7 +84,8 @@ En celulares y tabletas el juego cambia solo a **modo táctil**: ocupa toda la p
 │   └── export_presets.cfg  Exportación web (PWA, sin hilos)
 ├── app/                    Lanzador de Windows (Verdaria.vbs) e icono .ico
 ├── comandos/               Atajos .cmd: jugar, verificar, exportar
-└── docs/                   Arquitectura, diseño, revisiones y capturas
+├── docs/                   Arquitectura, diseño, revisiones y capturas
+└── video/                  Video de presentación (4:49)
 ```
 
 Las carpetas `export/`, `juego/build/` y `juego/.godot/` se generan en tu PC y no se suben.
