@@ -9,13 +9,15 @@
   Una casa. Tres futuros. Tus decisiones permanecen.
 </p>
 
+## 🎬 Video de presentación (4:49)
+
+[![Ver el video de presentación de Verdaria](video/miniatura.png)](video/Verdaria_presentacion.mp4)
+
+**[▶ Ver el video de Verdaria](video/Verdaria_presentacion.mp4)**: qué problema resuelve, qué hace, una demo, la arquitectura, la calidad y los aprendizajes. Narrado por Nicoll Valentina.
+
 <p align="center">
   <img src="docs/capturas/game.png" width="720" alt="Partida en el Huerto Comunitario">
 </p>
-
-## 🎬 Video de presentación
-
-**[▶ Ver el video de Verdaria (4:49)](video/Verdaria_presentacion.mp4)**: qué problema resuelve, qué hace, una demo, la arquitectura, la calidad y los aprendizajes. Narrado por Nicoll Valentina.
 
 ## El juego
 
